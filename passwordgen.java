@@ -1,3 +1,8 @@
+/*
+Author: tutorialpoint
+Date: 8/5/2023
+WebAddress: https://www.tutorialspoint.com/Generating-password-in-Java#
+*/
 import java.util.Random;
 
 public class Tester{
